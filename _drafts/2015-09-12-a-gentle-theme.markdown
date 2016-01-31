@@ -3,6 +3,7 @@ layout: post
 title:  "A Gentle Theme"
 date:   2015-09-12 19:23:19
 categories: Documentation
+foo: bar
 ---
 A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](http://www.getmdl.io/).
 

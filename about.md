@@ -5,8 +5,9 @@ permalink: /about/
 icon: info_outline
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[UAV Stats][uavstats] is a website that I, [thzinc][me], put together to parse out and make sense of various [FAA][1]-provided information. The site currently breaks down the [August 21 release of UAV reports][2].
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[1]: https://www.faa.gov
+[2]: https://www.faa.gov/news/updates/?newsId=83544
+[me]: http://thzinc.com
+[uavstats]: ${site.url}
