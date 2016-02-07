@@ -42,6 +42,10 @@ layout: default
   </header>
   <article>
     {{ content }}
+
+    {% unless page.latitude == empty %}
+      <iframe class="map" src="https://maps.google.com/maps?q={{page.latitude}},{{page.longitude}}&amp;hl=es;z=18&amp;output=embed"></iframe>
+    {% endunless %}
   </article>
 
   <div class="tags">

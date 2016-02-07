@@ -15,8 +15,8 @@ gems: [jekyll-paginate]
 disqus: uavstats
 
 # author info
-author: Daniel James
-bio:    # your bio
+# author: Daniel James
+# bio:    # your bio
 email: uavstats@thzinc.com
 email_md5: 690c60e5c42ee3872f16e948c14ba28a
 twitter_username: "@thzinc"
