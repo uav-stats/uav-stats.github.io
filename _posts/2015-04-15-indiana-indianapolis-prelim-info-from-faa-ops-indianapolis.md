@@ -1,0 +1,13 @@
+---
+layout: post
+title: Indianapolis, Indiana - PRELIM INFO FROM FAA OPS INDIANAPOLIS IN UAS INCIDENT 1438E DELTA 734 A319 3 SW
+categories: indiana indianapolis
+latitude: 39.768403
+longitude: -86.158068
+city: Indianapolis
+state: Indiana
+date: 2015-04-15T10:38:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: INDIANAPOLIS, IN/UAS INCIDENT/1438E/DELTA 734, A319, 3 SW IND, REPORTED 3 UAS OPERATING 200-300 FEET TO THE RIGHT OF RUNWAY 5R FINAL INDIANAPOLIS. UNKN IF LEO NOTIFIED. 

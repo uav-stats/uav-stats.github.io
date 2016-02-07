@@ -1,0 +1,13 @@
+---
+layout: post
+title: Carlsbad, California - PRELIM INFO FROM FAA OPS CARLSBAD CA UAS INCIDENT 1205P SCT ADVISED C172 REPORTED A
+categories: california carlsbad
+latitude: 33.1580933
+longitude: -117.3505939
+city: Carlsbad
+state: California
+date: 2015-03-14T17:05:00.000Z
+timeZoneName: Pacific Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: CARLSBAD, CA/UAS INCIDENT/1205P/SCT ADVISED C172 REPORTED A 4 PROPELLER SMALL TO MEDIUM SIZE UAS AT 4,000 FEET 3 E CRQ. NO OTHER INFO AVAILABLE. 

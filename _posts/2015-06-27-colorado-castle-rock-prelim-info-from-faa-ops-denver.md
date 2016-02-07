@@ -1,0 +1,13 @@
+---
+layout: post
+title: Castle Rock, Colorado - PRELIM INFO FROM FAA OPS DENVER CO UAS INCIDENT 1214M CESSNA C172 REPORTED A UAS
+categories: colorado castle-rock
+latitude: 39.3722121
+longitude: -104.8560902
+city: Castle Rock
+state: Colorado
+date: 2015-06-27T12:49:00.000Z
+timeZoneName: Mountain Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: DENVER, CO/UAS INCIDENT/1214M/CESSNA C172, REPORTED A UAS OVER THE HESS RESERVOIR HEADED NORTH AT 500 FEET. DESCRIPTION UNKN.

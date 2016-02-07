@@ -1,0 +1,30 @@
+---
+layout: post
+title: Sanford, Florida -  MOR Alert for SFB Number SFB M 2015 08 05 0001 Type Other Date
+categories: florida sanford
+latitude: 28.8028612
+longitude: -81.269453
+city: Sanford
+state: Florida
+date: 2015-08-05T09:31:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+
+
+
+
+
+
+
+
+
+
+
+MOR Alert for SFB
+Number: SFB-M-2015/08/05-0001
+Type: Other
+Date/Time: Aug 5, 2015 - 1331Z
+A/C: (BE55)
+
+Summary: BE55, INBOUND RWY 27L ON ABOUT 5 MILE FINAL REPORTED A SMALL UNMANNED AIRCRAFT PARALLELING HIM AND SLIGHTLY ABOVE HIM AT ABOUT 1000 FEET. THE SMALL AIRCRAFT WAS REPORTED AS SMALL, WHITE, AND HAD LIGHT COLORED STRIPES. PILOT DID NOT HAVE TO USE ANY EVASIVE ACTIONS. LOCAL AUTHORITIES WERE NOTIFIED.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: San Jose, California - PRELIM INFO FROM FAA OPS SAN JOSE CA UAS INCIDENT 1724P PIPER PAY1 REPORTED A
+categories: california san-jose
+latitude: 37.3382082
+longitude: -121.8863286
+city: San Jose
+state: California
+date: 2015-02-22T09:24:00.000Z
+timeZoneName: Pacific Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: SAN JOSE. CA/UAS INCIDENT/1724P PIPER PAY1 REPORTED A UAS OPERATING BETWEEN 1,000-1,500 FEET OVER MIDFIELD SJC. LEOS NOTIFIED. 

@@ -1,0 +1,13 @@
+---
+layout: post
+title: New York, New York - PRELIM INFO FROM FAA OPS LGA UAS INCIDENT 1345E LGA ATCT ADVISED A UAS IN
+categories: new-york new-york
+latitude: 40.7127837
+longitude: -74.0059413
+city: New York
+state: New York
+date: 2015-06-26T02:06:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: LGA/UAS INCIDENT/1345E/LGA ATCT ADVISED A UAS IN VCNTY GOLDMAN SACHS BLDG MANHATTAN, AT 900 FEET, 6 W LGA. NO DESCRIPTION GIVEN. NYPD NOTIFIED. 

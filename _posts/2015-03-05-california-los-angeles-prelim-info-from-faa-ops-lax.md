@@ -1,0 +1,26 @@
+---
+layout: post
+title: Los Angeles, California - PRELIM INFO FROM FAA OPS LAX UAS INCIDENT 1625P CESSNA C525 OBSERVED AN REDDISH ORANGE
+categories: california los-angeles
+latitude: 34.0522342
+longitude: -118.2436849
+city: Los Angeles
+state: California
+date: 2015-03-05T08:25:00.000Z
+timeZoneName: Pacific Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: LAX/UAS INCIDENT/1625P CESSNA C525 OBSERVED AN REDDISH-ORANGE-YELLOW COLORED UAS, MODEL UNKN, WHILE SOUTHBOUND AT FL200. NO EVASIVE ACTION TAKEN. 
+
+
+MOR Alert for ZLA
+
+Number: ZLA-M-2015/03/05-0003
+
+Type: Suspected loss involving IFR A/C
+
+Date/Time: Mar 5, 2015 - 0025Z
+
+A/C: C25B, DRONE (XX)
+
+Summary: ACFT REPORTED A NEAR MISS WITH A DRONE 10 MILES SOUTH OF LAX.

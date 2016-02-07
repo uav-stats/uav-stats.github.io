@@ -1,0 +1,30 @@
+---
+layout: post
+title: Miami, Florida -  MOR Alert for MIA Number MIA M 2015 07 26 0005 Type Other Date
+categories: florida miami
+latitude: 25.7616798
+longitude: -80.1917902
+city: Miami
+state: Florida
+date: 2015-07-26T09:50:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+
+
+
+
+
+
+
+
+
+
+
+MOR Alert for MIA
+Number: MIA-M-2015/07/26-0005
+Type: Other
+Date/Time: Jul 26, 2015 - 1350Z
+A/C: ARG1303 (A332)
+
+Summary: DRONE EVENT; ARG1303 DEPARTED RY27 AND UPON CHECKING IN WITH THE DEPARTURE CONTROLLER, APPROXIMATELY 1 MILE WEST OF MIA, ADVISED THEY SIGHTED A DRONE JUST ABOVE THEM ESTIMATED AT 1,600'. PILOT REPORTED IT WAS PURPLE IN COLOR WITH PROPS ON TOP. DEN/ROC, MDAD & METRO POLICE ALL NOTIFIED.

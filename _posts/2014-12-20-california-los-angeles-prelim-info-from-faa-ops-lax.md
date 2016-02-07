@@ -1,0 +1,13 @@
+---
+layout: post
+title: Los Angeles, California - PRELIM INFO FROM FAA OPS LAX UAS INCIDENT 1400P SCT ADVISED CANADAIR CL60 AT 5
+categories: california los-angeles
+latitude: 34.0522342
+longitude: -118.2436849
+city: Los Angeles
+state: California
+date: 2014-12-20T06:00:00.000Z
+timeZoneName: Pacific Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: LAX/UAS INCIDENT/1400P/SCT ADVISED CANADAIR CL60 AT 5,000 FEET REPORTED A UAS AT SAME ALTITUDE 15 E LAX. LA CO SHERIFF NOTIFIED. NO EVASIVE ACTION TAKEN.

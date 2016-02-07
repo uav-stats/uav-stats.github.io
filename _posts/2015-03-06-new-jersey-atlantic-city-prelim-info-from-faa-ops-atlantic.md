@@ -1,0 +1,13 @@
+---
+layout: post
+title: Atlantic City, New Jersey - PRELIM INFO FROM FAA OPS ATLANTIC CITY NJ UAS INCIDENT 1645E CESSNA C172 REPORTED A
+categories: new-jersey atlantic-city
+latitude: 39.3642834
+longitude: -74.4229266
+city: Atlantic City
+state: New Jersey
+date: 2015-03-06T11:45:00.000Z
+timeZoneName: Eastern Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: ATLANTIC CITY, NJ/UAS INCIDENT/1645E CESSNA C172, REPORTED A SMALL WHITE UAS 200 FEET BELOW THE ACFT WHILE FLYING AT 2,500 FEET, 20 ENE ACY. LEO NOT NOTIFIED.

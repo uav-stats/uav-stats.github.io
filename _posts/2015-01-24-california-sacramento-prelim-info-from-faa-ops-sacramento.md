@@ -1,0 +1,13 @@
+---
+layout: post
+title: Sacramento, California - PRELIM INFO FROM FAA OPS SACRAMENTO CA UAS INCIDENT 1730P NCT ADVISED CESSNA C182 REPORTED
+categories: california sacramento
+latitude: 38.5815719
+longitude: -121.4943996
+city: Sacramento
+state: California
+date: 2015-01-24T09:30:00.000Z
+timeZoneName: Pacific Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: SACRAMENTO, CA/UAS INCIDENT/1730P/NCT ADVISED CESSNA C182 REPORTED A UAS OPERATING AT 9,000 FEET 4 NW SAC. NO CONFLICTS REPORTED.

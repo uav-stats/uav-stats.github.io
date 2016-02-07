@@ -1,0 +1,19 @@
+---
+layout: post
+title: Seattle, Washington - MOR Alert for S46 Number S46 M 2015 06 19 0004 Type A C operated
+categories: washington seattle
+latitude: 47.6062095
+longitude: -122.3320708
+city: Seattle
+state: Washington
+date: 2015-06-19T16:02:00.000Z
+timeZoneName: Pacific Daylight Time
+---
+
+MOR Alert for S46
+Number: S46-M-2015/06/19-0004
+Type: A/C operated at Altitude/Route/Speed other than expected/intended (Includes TCAS RA - No Loss/spillout)
+Date/Time: Jun 20, 2015 - 0302Z
+A/C: QXE423 (DH8D)
+
+Summary: QXE423 DH8D INBOUND ON THE CHINS ARRIVAL DESCENDING THROUGH 6500 ADVISED THERE WAS A DRONE OPERATING 1000 FEET BELOW THEM. QXE423 WAS OFF THE SEATTLE 120/14 WHEN THEY REPORTED THE DRONE. THE DRONES COLOR SIZE AND DIRECTION OF FLIGHT WERE NOT GIVEN BY THE FLIGHT CREW AS THEY ONLY CAUGHT A GLIMPSE OF IT. ALL CONCERNED WERE NOTIFIED AND QXE423 CONTINUED WITHOUT FURTHER INCIDENT.

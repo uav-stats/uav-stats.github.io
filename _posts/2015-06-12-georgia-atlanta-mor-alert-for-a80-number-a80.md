@@ -1,0 +1,19 @@
+---
+layout: post
+title: Atlanta, Georgia - MOR Alert for A80 Number A80 M 2015 06 12 0003 Type Date Time Jun
+categories: georgia atlanta
+latitude: 33.7489954
+longitude: -84.3879824
+city: Atlanta
+state: Georgia
+date: 2015-06-12T02:35:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+MOR Alert for A80
+Number: A80-M-2015/06/12-0003
+Type: 
+Date/Time: Jun 12, 2015 - 1035Z
+A/C: (BE35)
+
+Summary: A VFR AIRCRAFT RECEIVING ATC SERVICE REPORTED PASSING AN OBJECT APPROX 500FT BELOW HIM AT 095. THE PILOT DESCRIBED THE OBJECT AT ROUND CIRCULAR, RED IN COLOR, AND REPORTED IT COULD HAVE BEEN A DRONE OR A BALLOON. A80 ATC DID NOT OBSERVE ANY TARGETS ON RADAR IN THE VICINITY OF N774S

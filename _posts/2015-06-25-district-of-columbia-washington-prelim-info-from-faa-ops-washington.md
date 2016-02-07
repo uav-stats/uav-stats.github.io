@@ -1,0 +1,13 @@
+---
+layout: post
+title: Washington, District of Columbia - PRELIM INFO FROM FAA OPS WASHINGTON DC UAS INCIDENT 1325E POTOMAC TRACON ADVISED CESSNA C172
+categories: district-of-columbia washington
+latitude: 38.9071923
+longitude: -77.0368707
+city: Washington
+state: District of Columbia
+date: 2015-06-25T09:25:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: WASHINGTON, DC/UAS INCIDENT/1325E/POTOMAC TRACON ADVISED CESSNA C172, OBSERVED A RED AND BLUE UAS AT 1,000 FEET, 13 ENE DCA. NO EVASIVE ACTION REPORTED. MARYLAND STATE POLICE NOTIFIED 

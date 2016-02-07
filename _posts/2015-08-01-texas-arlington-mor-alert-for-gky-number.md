@@ -1,0 +1,30 @@
+---
+layout: post
+title: Arlington, Texas -  MOR Alert for GKY Number GKY M 2015 08 01 0001 Type Date Time
+categories: texas arlington
+latitude: 32.735687
+longitude: -97.10806559999999
+city: Arlington
+state: Texas
+date: 2015-08-01T12:00:00.000Z
+timeZoneName: Central Daylight Time
+---
+
+
+
+
+
+
+
+
+
+
+
+
+MOR Alert for GKY
+Number: GKY-M-2015/08/01-0001
+Type: 
+Date/Time: Aug 1, 2015 - 1700Z
+A/C: (C172)
+
+Summary: C172 REPORTED A RED AND BLACK COLORED DRONE WHILE ENTERING THE RIGHT DOWNWIND FOR RUNWAY 16 FROM THE SOUTHWEST. THE PILOT WAS DESCENDING FROM 2100 MSL TO PATTERN ALTITUDE 1600 MSL 2 1/2 MILES SOUTHWEST OF GKY. NO EVASIVE ACTION WAS TAKEN BY AIRCRAFT. NOTIFIED THE ROC, DEN AND ARLINGTON PD.

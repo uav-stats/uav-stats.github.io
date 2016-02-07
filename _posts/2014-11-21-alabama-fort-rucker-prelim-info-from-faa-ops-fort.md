@@ -1,0 +1,13 @@
+---
+layout: post
+title: Fort Rucker, Alabama - PRELIM INFO FROM FAA OPS FORT RUCKER AL UAS INCIDENT 1303C TEXAN 2 T6 REPORTED
+categories: alabama fort-rucker
+latitude: 31.3400515
+longitude: -85.7153754
+city: Fort Rucker
+state: Alabama
+date: 2014-11-21T07:03:00.000Z
+timeZoneName: Central Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: FORT RUCKER, AL/UAS INCIDENT/1303C/TEXAN 2, T6, REPORTED NMAC WITH UAS, 4 S CAIRNS AAF AIRPORT, AT 2,000 FEET. UAS WAS 6-10 FEET IN LENGTH. LEOS NOTIFIED (MILITARY PD).

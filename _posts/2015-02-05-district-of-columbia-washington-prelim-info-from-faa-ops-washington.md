@@ -1,0 +1,13 @@
+---
+layout: post
+title: Washington, District of Columbia - PRELIM INFO FROM FAA OPS WASHINGTON DC UAS INCIDENT 1903E DAVIDSON ATCT ADVISED ARMY SENTRY2
+categories: district-of-columbia washington
+latitude: 38.9071923
+longitude: -77.0368707
+city: Washington
+state: District of Columbia
+date: 2015-02-05T14:03:00.000Z
+timeZoneName: Eastern Standard Time
+---
+
+PRELIM INFO FROM FAA OPS: WASHINGTON, DC/UAS INCIDENT/1903E/DAVIDSON ATCT ADVISED ARMY SENTRY2, TYPE UNKN, REPORTED UAV AT UNKN ALTITUDE 6 S DAVIDSON ATCT. UAV IS DARK GRAY AND SMALLER THAN A PREDATOR.

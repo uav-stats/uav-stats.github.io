@@ -1,0 +1,60 @@
+---
+layout: post
+title: New York, New York -  MOR Alert for N90 Number N90 M 2015 07 05 0006 Type Other Date
+categories: new-york new-york
+latitude: 40.7127837
+longitude: -74.0059413
+city: New York
+state: New York
+date: 2015-07-05T19:50:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOR Alert for N90
+Number: N90-M-2015/07/05-0006
+Type: Other
+Date/Time: Jul 5, 2015 - 2350Z
+A/C: AAL2153 (E190)
+
+Summary: AAL2153 E190 REPORTED MODEL ROCKET 2800 FEET NINE MILE FINAL RY22. LGAT REPORTED TO DEN AND NYPD. 
+
+
+MOR Alert for N90
+Number: N90-M-2015/07/05-0005
+Type: Other
+Date/Time: Jul 5, 2015 - 2349Z
+A/C: FLG3763 (CRJ9)
+
+Summary: FLG3763 CRJ9 REPORTED SEEING MODEL ROCKET PASSING OFF LEFT SIDE AT 2000 ON EIGHT MILE FINAL RY 22. LGAT REPORTED ON DEN AND TO NYPD. 
+
+
+MOR Alert for LGA
+Number: LGA-M-2015/07/05-0007
+Type: Other
+Date/Time: Jul 5, 2015 - 2350Z
+A/C: AAL2153 (E190)
+Summary: AAL2153 E190 REPORTED MODEL ROCKET 2800 FEET NINE MILE FINAL RY22 
+
+
+
+MOR Alert for LGA
+Number: LGA-M-2015/07/05-0006
+Type: Other
+Date/Time: Jul 5, 2015 - 2349Z
+A/C: FLG3763 (CRJ9)
+
+Summary: FLG3763 CRJ9 REPORTED SEEING MODEL ROCKET PASSING OFF LEFT SIDE AT 2000 ON EIGHT MILE FINAL RY 22 
+

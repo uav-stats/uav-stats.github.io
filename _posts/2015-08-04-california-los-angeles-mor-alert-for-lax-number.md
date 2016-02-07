@@ -1,0 +1,29 @@
+---
+layout: post
+title: Los Angeles, California -  MOR Alert for LAX Number LAX M 2015 08 04 0006 Type Other Date
+categories: california los-angeles
+latitude: 34.0522342
+longitude: -118.2436849
+city: Los Angeles
+state: California
+date: 2015-08-04T13:36:00.000Z
+timeZoneName: Pacific Daylight Time
+---
+
+
+
+
+
+
+
+
+
+
+
+MOR Alert for LAX
+Number: LAX-M-2015/08/04-0006
+Type: Other
+Date/Time: Aug 4, 2015 - 2036Z
+A/C: UAL935 (B772)
+
+Summary: DRONE REPORT, UAL935, B772, ON FINAL RY25L. UAL935 REPORTED A DRONE OFF THEIR LEFT SIDE ON APPROXIMATELY A 1 MILE FINAL AT 300-400FT. PILOT, CAPT. JEFF GLEASON, RPTS WHITE QUAD DRONE (ABOUT THE SIZE OF A MEDIUM PIZZA BOX), STATIONARY JUST WEST OF THE 405 PASSED JUST UNDER THE LEFT WING. NO EVASIVE ACTION TAKEN. DEN NTFD.

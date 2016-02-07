@@ -1,0 +1,13 @@
+---
+layout: post
+title: Minneapolis, Minnesota - PRELIM INFO FROM FAA OPS FCM UAS INCIDENT 1200C FCM ADVISED MOSQUITO 1 UNKN HELICOPTER
+categories: minnesota minneapolis
+latitude: 44.977753
+longitude: -93.2650108
+city: Minneapolis
+state: Minnesota
+date: 2015-06-23T19:00:00.000Z
+timeZoneName: Central Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: FCM/UAS INCIDENT/1200C/FCM ADVISED MOSQUITO 1, UNKN HELICOPTER, REPORTED A BLACK UAS 4 NW FCM. EVASIVE ACTION NOT REPORTED. 911 NOTIFIED

@@ -1,0 +1,30 @@
+---
+layout: post
+title: New York, New York - PRELIM INFO FROM FAA OPS JF KENNEDY ARPT NY UAS INCIDENT 1452E JET BLUE 1834
+categories: new-york new-york
+latitude: 40.7127837
+longitude: -74.0059413
+city: New York
+state: New York
+date: 2015-07-31T14:24:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: JF KENNEDY ARPT, NY/UAS INCIDENT/1452E/JET BLUE 1834, A320, PORT AU PRINCE, HAITI - JFK, ENCOUNTERED A DARK 4 BLADED UAS AT 800-900 FEET VCNTY JFK. NO EVASIVE ACTION REPORTED. UNKN IF LEOS NOTIFIED. 
+
+
+MOR Alert for JFK
+Number: JFK-M-2015/07/31-0002
+Type: Public inquiry or concern (including all pilot reported NMACs)
+Date/Time: Jul 31, 2015 - 1824Z
+A/C: JBU1834 (A320)
+
+Summary: PILOT OF JBU11834 A320 REPORTED A 4 BLADE SQUARE DRONE @ 800-900FT, DRONE COLOR WAS DISCRIBED AS DARK & HOVERING. 
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: New york, New York - PRELIM INFO FROM FAA OPS JFK UAS INCIDENT 0639E JET BLUE 917 A321 REPORTED A
+categories: new-york new-york
+latitude: 40.7127837
+longitude: -74.0059413
+city: New york
+state: New York
+date: 2015-06-29T07:40:00.000Z
+timeZoneName: Eastern Daylight Time
+---
+
+PRELIM INFO FROM FAA OPS: JFK/UAS INCIDENT/0639E/JET BLUE 917, A321, REPORTED A UAS AT 1,800 FEET, 3 SE JFK. UNKN IF ANY EVASIVE ACTION TAKEN. UNKN IF LEO NOTIFIED
